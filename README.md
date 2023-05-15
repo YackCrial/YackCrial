@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey, I'm YackCrial! 👋
+- 🌱 I’m currently working on skid[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YackCrial&data=followers,repositories,stars)](https://github.com/Jurredr/github-widgetbox)
 
-<!--
-**YackCrial/YackCrial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary><b>Skills</b></summary>
+<ul>
+ <li>Java</li>
+  <li>Kotlin</li>   
+ <li> Python</li>
+</ul>
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><b>Learning queue</b></summary>
+<ul>
+ <li> C</li>
+ <li> UI design</li>
+</ul>
+</details>
