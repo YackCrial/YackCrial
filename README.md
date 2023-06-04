@@ -14,6 +14,6 @@
 <summary><b>Learning queue</b></summary>
 <ul>
  <li> C</li>
- <li> UI design</li>
+ <li> Rust</li>
 </ul>
 </details>
